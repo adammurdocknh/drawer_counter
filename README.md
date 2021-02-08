@@ -4,7 +4,7 @@ Drawer Counter is a simple script I wrote for my little brother (My favorite bro
 
 ## Installation
 
-Download or clone the script. This was written using python 3.9.0 and uses static type checking. As such you'll need python 3.7+.
+Download or clone the script. This was written using `python3.9.0` and uses static type checking. As such you'll need `python3.7+`. No libraries were used.
 
 
 ```zsh
