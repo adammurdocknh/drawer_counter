@@ -8,7 +8,7 @@ Download or clone the script. This was written using python 3.9.0 and uses stati
 
 
 ```zsh
-git clone 
+git clone https://github.com/adammurdocknh/drawer_counter.git
 ```
 
 
